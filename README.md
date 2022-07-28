@@ -3,7 +3,6 @@
 
 ### Live Demo - 
 
-https://user-images.githubusercontent.com/16558205/167652035-8aa2b6b2-52cf-4a43-b07a-e4afee94b918.mov
 
 
 ### Features - 
